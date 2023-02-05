@@ -23,5 +23,5 @@ I will need a table for animals, people who have adopted an animal, maybe a tabl
   
 Initial Designs
 ---------------
-![Site Map](../SiteMap.png)  
-![Site Sketch](../SiteSketch.png)  
+![Site Map](../docs/SiteMap.png)  
+![Site Sketch](../docs/SiteSketch.png)  
