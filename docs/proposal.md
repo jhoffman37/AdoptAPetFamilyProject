@@ -7,8 +7,7 @@ for each database category of pets, and a contact page where you can
 get the adoption process started.  
   
 Web Service  
------------  
-AdoptAPet  
+-----------   
 [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html)  
 Authentification Key is apiKey  
   
