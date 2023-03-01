@@ -1,7 +1,7 @@
 # Your project name
-Your name or CVTC username
+jhoffman37
+https://adoptapetfamily.onrender.com/
 
-Your project description
+My project is to help people looking to adopt find the pet of their dreams.
 
- 4. Hello from dsprinkle2
- 4. dsprinkle2 can handle rejection 
+![RelationalDiagram](../docs/adoptAPetFamily.drawio.png) 
